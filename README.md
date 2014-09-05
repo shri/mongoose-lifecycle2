@@ -1,7 +1,9 @@
-mongoose-lifecycle
+mongoose-lifecycle2
 ==================
 
 [Mongoose](https://github.com/LearnBoost/mongoose) plugin adding lifecyle events to the model class.
+
+Documentation for lifecycle2 specific features have not yet been added. Tests for lifecycle2 specific features are still not yet written.
 
 Installation
 ------------
