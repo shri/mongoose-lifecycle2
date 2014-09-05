@@ -1,7 +1,7 @@
 {
   "name":    "mongoose-lifecycle2",
   "description": "Extension on mongoose-lifecycle by Francois Zaninotto for hooks on Schema",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Shri Ganeshram",
   "keywords": ["mongodb", "mongoose", "plugin", "presave", "beforesave"],
   "repository": {
